@@ -17,7 +17,7 @@ Hence, I created SMART PARENT; an easy way to generate new stories that will mak
 
 Feel free to reach out to me for any questions by leaving comments on my [website](https://aadamani.com/projects)
 
-## Sources:
+## Sources
 - https://freekidsbooks.org/toddler/
 - https://platform.openai.com/docs/api-reference/chat
 
