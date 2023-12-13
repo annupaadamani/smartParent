@@ -15,7 +15,7 @@ Hence, I created SMART PARENT; an easy way to generate new stories that will mak
 - You can access data dictionary used in the 'final_data_dictionary.json' file. Scripts to generate this data can be found under .\custom_nlp\data_prep
 - To leverage your own model, you can use some the scripts provided under .\custom_nlp\data_prep to clean your data, proprocess, and generate tokens. Currently, I don't have enough of my own data to inform my model; hence, it is not yet published. 
 
-Feel free to reach out to me for any questions by leaving comments on my [Website](https://aadamani.com/projects)
+Feel free to reach out to me for any questions by leaving comments on my [website](https://aadamani.com/projects)
 
 ## Sources:
 - https://freekidsbooks.org/toddler/
